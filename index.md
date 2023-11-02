@@ -6,3 +6,6 @@ Here is a cute image to show that I learned to attach images!
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
